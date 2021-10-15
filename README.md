@@ -9,3 +9,4 @@ We’ll also discuss various organizational models and structures that are used 
 # Taught by:
 * Courtney Kissler, Vice President, Nike Digital Platform Engineering
 * Continuing and Professional Education
+ 
